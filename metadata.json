@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Cyber Sentinel: AI Security Analyst",
+  "description": "An AI-powered assistant for beginner security analysts to investigate and organize security events. It provides summaries, extracts indicators of compromise (IoCs), maps events to the MITRE ATT&CK framework, and generates a dynamic investigation checklist.",
+  "requestFramePermissions": []
+}
